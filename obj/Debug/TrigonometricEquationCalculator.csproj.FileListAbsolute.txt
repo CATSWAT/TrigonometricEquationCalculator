@@ -1,0 +1,8 @@
+C:\Users\herhe\source\repos\TrigonometricEquationCalculator\bin\Debug\TrigonometricEquationCalculator.exe.config
+C:\Users\herhe\source\repos\TrigonometricEquationCalculator\bin\Debug\TrigonometricEquationCalculator.exe
+C:\Users\herhe\source\repos\TrigonometricEquationCalculator\bin\Debug\TrigonometricEquationCalculator.pdb
+C:\Users\herhe\source\repos\TrigonometricEquationCalculator\obj\Debug\TrigonometricEquationCalculator.csproj.AssemblyReference.cache
+C:\Users\herhe\source\repos\TrigonometricEquationCalculator\obj\Debug\TrigonometricEquationCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\herhe\source\repos\TrigonometricEquationCalculator\obj\Debug\TrigonometricEquationCalculator.csproj.CoreCompileInputs.cache
+C:\Users\herhe\source\repos\TrigonometricEquationCalculator\obj\Debug\TrigonometricEquationCalculator.exe
+C:\Users\herhe\source\repos\TrigonometricEquationCalculator\obj\Debug\TrigonometricEquationCalculator.pdb
