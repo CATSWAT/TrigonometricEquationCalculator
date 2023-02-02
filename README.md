@@ -1,0 +1,2 @@
+# TrigonometricEquationCalculator
+This is a calculator that can be used to solve trigonometric equations. It can be used to solve equations involving sine, cosine, tangent, and other trigonometric functions. It can also be used to solve equations involving inverse trigonometric functions such as arcsin, arccos, and arctan. The calculator can be used to find the roots of the equation, as well as the exact values of certain angles or lengths.
